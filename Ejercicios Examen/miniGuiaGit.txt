@@ -1,0 +1,5 @@
+Si se ha creado algún archivo o carpeta nuevo que no está en el repositorio remoto,
+hay que ejecutar:
+git add -A
+
+Siempre hay que hacer el commmit para que se guarden los cambios realizados:

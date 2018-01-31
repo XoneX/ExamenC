@@ -5,5 +5,5 @@ git add -A
 Siempre hay que hacer el commmit para que se guarden los cambios realizados:
 git commit -am "Mensaje del Commit"
  
- Y por último simplemente quedaría subirlo al repositorio remoto:
- git push origin master
+Y por último simplemente quedaría subirlo al repositorio remoto:
+git push origin master
